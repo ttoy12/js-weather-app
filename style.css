@@ -10,7 +10,7 @@ body {
 }
 
 .blurred {
-  filter: blur(0px); <!-- change to 3 later -->
+  filter: blur(3px);
   overflow: hidden;
 }
 
